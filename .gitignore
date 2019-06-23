@@ -1,6 +1,7 @@
 Hotel_Reviews.csv
 Cleaned_Hotel_Reviews.csv
 Cleaned_Text.csv
+gitg/
 
 # Exclude the folder in which there are stored the docwords.
 docword_files/
